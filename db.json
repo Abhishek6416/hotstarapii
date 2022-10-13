@@ -1,10 +1,13 @@
 {
-  "moviedata":{
+  "moviedata": {
     "movies": [
       {
         "adult": false,
         "backdrop_path": "/5GA3vV1aWWHTSDO5eno8V5zDo8r.jpg",
-        "genre_ids": [27, 53],
+        "genre_ids": [
+          27,
+          53
+        ],
         "id": 760161,
         "original_language": "en",
         "original_title": "Orphan: First Kill",
@@ -20,7 +23,11 @@
       {
         "adult": false,
         "backdrop_path": "/iS9U3VHpPEjTWnwmW56CrBlpgLj.jpg",
-        "genre_ids": [14, 35, 10751],
+        "genre_ids": [
+          14,
+          35,
+          10751
+        ],
         "id": 642885,
         "original_language": "en",
         "original_title": "Hocus Pocus 2",
@@ -36,7 +43,9 @@
       {
         "adult": false,
         "backdrop_path": "/hT3OqvzMqCQuJsUjZnQwA5NuxgK.jpg",
-        "genre_ids": [53],
+        "genre_ids": [
+          53
+        ],
         "id": 985939,
         "original_language": "en",
         "original_title": "Fall",
@@ -52,7 +61,11 @@
       {
         "adult": false,
         "backdrop_path": "/83oeqwN64WtafGoITvsOzjKIQaM.jpg",
-        "genre_ids": [28, 35, 53],
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
         "id": 718930,
         "original_language": "en",
         "original_title": "Bullet Train",
@@ -68,7 +81,11 @@
       {
         "adult": false,
         "backdrop_path": "/5hoS3nEkGGXUfmnu39yw1k52JX5.jpg",
-        "genre_ids": [28, 12, 14],
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
         "id": 960704,
         "original_language": "ja",
         "original_title": "鋼の錬金術師 完結編 最後の錬成",
@@ -84,7 +101,10 @@
       {
         "adult": false,
         "backdrop_path": "/7AiIrnDMaOhPrw9elJ5NNjijTW4.jpg",
-        "genre_ids": [53, 9648],
+        "genre_ids": [
+          53,
+          9648
+        ],
         "id": 916605,
         "original_language": "en",
         "original_title": "The Infernal Machine",
@@ -100,7 +120,11 @@
       {
         "adult": false,
         "backdrop_path": "/ghsPsvM0sEztdNT4kUlTsBF2LEF.jpg",
-        "genre_ids": [18, 28, 53],
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
         "id": 852046,
         "original_language": "fr",
         "original_title": "Athena",
@@ -116,7 +140,10 @@
       {
         "adult": false,
         "backdrop_path": "/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
-        "genre_ids": [28, 53],
+        "genre_ids": [
+          28,
+          53
+        ],
         "id": 429473,
         "original_language": "en",
         "original_title": "Lou",
@@ -132,7 +159,11 @@
       {
         "adult": false,
         "backdrop_path": "/2k9tBql5GYH328Krj66tDT9LtFZ.jpg",
-        "genre_ids": [12, 18, 27],
+        "genre_ids": [
+          12,
+          18,
+          27
+        ],
         "id": 760741,
         "original_language": "en",
         "original_title": "Beast",
@@ -148,7 +179,10 @@
       {
         "adult": false,
         "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
-        "genre_ids": [10749, 18],
+        "genre_ids": [
+          10749,
+          18
+        ],
         "id": 744276,
         "original_language": "en",
         "original_title": "After Ever Happy",
@@ -164,7 +198,11 @@
       {
         "adult": false,
         "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
-        "genre_ids": [14, 28, 35],
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
         "id": 616037,
         "original_language": "en",
         "original_title": "Thor: Love and Thunder",
@@ -177,18 +215,15 @@
         "vote_average": 6.8,
         "vote_count": 4117
       }
-  
     ],
-  
-  
-  
-  
-  
-    "trending":[
+    "trending": [
       {
         "adult": false,
         "backdrop_path": "/5EzpTMkpg3DecNoP2DAOBlh0Fi6.jpg",
-        "genre_ids": [28, 80],
+        "genre_ids": [
+          28,
+          80
+        ],
         "id": 993145,
         "original_language": "en",
         "original_title": "Bullet Proof",
@@ -204,7 +239,11 @@
       {
         "adult": false,
         "backdrop_path": "/olPXihyFeeNvnaD6IOBltgIV1FU.jpg",
-        "genre_ids": [27, 9648, 53],
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
         "id": 882598,
         "original_language": "en",
         "original_title": "Smile",
@@ -220,7 +259,11 @@
       {
         "adult": false,
         "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
-        "genre_ids": [53, 28, 878],
+        "genre_ids": [
+          53,
+          28,
+          878
+        ],
         "id": 766507,
         "original_language": "en",
         "original_title": "Prey",
@@ -236,7 +279,13 @@
       {
         "adult": false,
         "backdrop_path": "/qaTzVAW1u16WFNsepjCrilBuInc.jpg",
-        "genre_ids": [16, 28, 10751, 35, 878],
+        "genre_ids": [
+          16,
+          28,
+          10751,
+          35,
+          878
+        ],
         "id": 539681,
         "original_language": "en",
         "original_title": "DC League of Super-Pets",
@@ -252,7 +301,11 @@
       {
         "adult": false,
         "backdrop_path": "/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
-        "genre_ids": [12, 28, 878],
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
         "id": 507086,
         "original_language": "en",
         "original_title": "Jurassic World Dominion",
@@ -268,7 +321,11 @@
       {
         "adult": false,
         "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
-        "genre_ids": [28, 18, 878],
+        "genre_ids": [
+          28,
+          18,
+          878
+        ],
         "id": 629176,
         "original_language": "en",
         "original_title": "Samaritan",
@@ -284,7 +341,10 @@
       {
         "adult": false,
         "backdrop_path": "/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg",
-        "genre_ids": [16, 10751],
+        "genre_ids": [
+          16,
+          10751
+        ],
         "id": 438148,
         "original_language": "en",
         "original_title": "Minions: The Rise of Gru",
@@ -300,7 +360,10 @@
       {
         "adult": false,
         "backdrop_path": "/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg",
-        "genre_ids": [53, 28],
+        "genre_ids": [
+          53,
+          28
+        ],
         "id": 999205,
         "original_language": "en",
         "original_title": "Stowaway",
@@ -316,7 +379,11 @@
       {
         "adult": false,
         "backdrop_path": "/z8KsgBFtduX5bS1yVkjoGo4L7KJ.jpg",
-        "genre_ids": [18, 35, 10752],
+        "genre_ids": [
+          18,
+          35,
+          10752
+        ],
         "id": 597922,
         "original_language": "en",
         "original_title": "The Greatest Beer Run Ever",
@@ -332,7 +399,10 @@
       {
         "adult": false,
         "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
-        "genre_ids": [28, 18],
+        "genre_ids": [
+          28,
+          18
+        ],
         "id": 361743,
         "original_language": "en",
         "original_title": "Top Gun: Maverick",
@@ -348,7 +418,10 @@
       {
         "adult": false,
         "backdrop_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
-        "genre_ids": [28, 18],
+        "genre_ids": [
+          28,
+          18
+        ],
         "id": 579974,
         "original_language": "te",
         "original_title": "రౌద్రం రణం రుధిరం",
@@ -364,7 +437,11 @@
       {
         "adult": false,
         "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
-        "genre_ids": [53, 18, 80],
+        "genre_ids": [
+          53,
+          18,
+          80
+        ],
         "id": 773975,
         "original_language": "en",
         "original_title": "End of the Road",
@@ -380,7 +457,16 @@
       {
         "adult": false,
         "backdrop_path": "/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
-        "genre_ids": [27, 53, 28, 12, 80, 9648, 18, 10752],
+        "genre_ids": [
+          27,
+          53,
+          28,
+          12,
+          80,
+          9648,
+          18,
+          10752
+        ],
         "id": 927341,
         "original_language": "en",
         "original_title": "Hunting Ava Bravo",
@@ -396,7 +482,9 @@
       {
         "adult": false,
         "backdrop_path": "/sB4Qee1z6Mkood7WNdUJSJJF0s0.jpg",
-        "genre_ids": [18],
+        "genre_ids": [
+          18
+        ],
         "id": 301502,
         "original_language": "en",
         "original_title": "Blonde",
@@ -412,7 +500,10 @@
       {
         "adult": false,
         "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
-        "genre_ids": [10749, 18],
+        "genre_ids": [
+          10749,
+          18
+        ],
         "id": 829560,
         "original_language": "pl",
         "original_title": "The Next 365 Days",
@@ -428,7 +519,13 @@
       {
         "adult": false,
         "backdrop_path": "/7id7oE3gqZuO0piWN20Ev7V90wl.jpg",
-        "genre_ids": [16, 18, 9648, 14, 10751],
+        "genre_ids": [
+          16,
+          18,
+          9648,
+          14,
+          10751
+        ],
         "id": 877957,
         "original_language": "ja",
         "original_title": "雨を告げる漂流団地",
@@ -444,7 +541,10 @@
       {
         "adult": false,
         "backdrop_path": "/as4jvr6PF7Wfs0RyUl5bOJcB3yt.jpg",
-        "genre_ids": [18, 35],
+        "genre_ids": [
+          18,
+          35
+        ],
         "id": 626735,
         "original_language": "en",
         "original_title": "Dog",
@@ -460,7 +560,9 @@
       {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [99],
+        "genre_ids": [
+          99
+        ],
         "id": 545669,
         "original_language": "fr",
         "original_title": "Fast and Furious - La Saga no Limit",
@@ -476,7 +578,10 @@
       {
         "adult": false,
         "backdrop_path": "/3AKQ59TNeaifBoeLqBKp737dOHn.jpg",
-        "genre_ids": [18, 27],
+        "genre_ids": [
+          18,
+          27
+        ],
         "id": 44510,
         "original_language": "en",
         "original_title": "The Grandmother",
@@ -492,7 +597,10 @@
       {
         "adult": false,
         "backdrop_path": "/1U5zz2Jvt2L7hXHf1ZN1n74Zx8j.jpg",
-        "genre_ids": [18, 53],
+        "genre_ids": [
+          18,
+          53
+        ],
         "id": 769636,
         "original_language": "es",
         "original_title": "Código Emperador",
@@ -508,7 +616,11 @@
       {
         "adult": false,
         "backdrop_path": "/noCgyITVoRxC3huC9zSOQq23sVr.jpg",
-        "genre_ids": [80, 53, 18],
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
         "id": 821420,
         "original_language": "en",
         "original_title": "Catch the Fair One",
@@ -524,7 +636,10 @@
       {
         "adult": false,
         "backdrop_path": "/gCojEROJs4JUVCCMA4fDFGc8OFc.jpg",
-        "genre_ids": [18, 14],
+        "genre_ids": [
+          18,
+          14
+        ],
         "id": 1023994,
         "original_language": "en",
         "original_title": "Aníkúlápó",
@@ -540,7 +655,12 @@
       {
         "adult": false,
         "backdrop_path": "/h0buW4Y9yqDcl28FzI7kJunfaiM.jpg",
-        "genre_ids": [14, 18, 35, 10402],
+        "genre_ids": [
+          14,
+          18,
+          35,
+          10402
+        ],
         "id": 960170,
         "original_language": "es",
         "original_title": "Rainbow",
@@ -556,7 +676,10 @@
       {
         "adult": false,
         "backdrop_path": "/7IW5xt241RUAufYiFBoAPx5n52V.jpg",
-        "genre_ids": [35, 18],
+        "genre_ids": [
+          35,
+          18
+        ],
         "id": 936074,
         "original_language": "fr",
         "original_title": "Ténor",
@@ -570,15 +693,20 @@
         "vote_count": 75
       }
     ],
-    
     "tv": [
       {
         "backdrop_path": "/z6ES1hCbLozoquj5wilidrtKBPp.jpg",
         "first_air_date": "2007-02-15",
-        "genre_ids": [16, 10759, 10765],
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 31910,
         "name": "Naruto Shippūden",
-        "origin_country": ["JP"],
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
         "original_name": "ナルト 疾風伝",
         "overview": "Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
@@ -590,10 +718,16 @@
       {
         "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
         "first_air_date": "2011-04-17",
-        "genre_ids": [10765, 18, 10759],
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
         "id": 1399,
         "name": "Game of Thrones",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Game of Thrones",
         "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
@@ -605,10 +739,14 @@
       {
         "backdrop_path": "/2s9UYYzCraDdj1gczHCMFQ7Umgx.jpg",
         "first_air_date": "",
-        "genre_ids": [10759],
+        "genre_ids": [
+          10759
+        ],
         "id": 111110,
         "name": "One Piece",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "One Piece",
         "overview": "A live-action pirate adventure story based on the bestselling manga by Eiichiro Oda.",
@@ -620,10 +758,14 @@
       {
         "backdrop_path": "/jr47QrP0jSHzszN7U1FBQRLMQ7S.jpg",
         "first_air_date": "2013-09-16",
-        "genre_ids": [18],
+        "genre_ids": [
+          18
+        ],
         "id": 60550,
         "name": "Mahabharat",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "Mahabharat",
         "overview": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
@@ -635,10 +777,16 @@
       {
         "backdrop_path": "/9W2jZIwKQHyCkji8uxrcYoJbk67.jpg",
         "first_air_date": "2019-04-05",
-        "genre_ids": [80, 9648, 18],
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
         "id": 88177,
         "name": "Criminal Justice",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "Criminal Justice",
         "overview": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
@@ -650,10 +798,15 @@
       {
         "backdrop_path": "/2748H9LoK2oQd9L7ofze8VjCGhS.jpg",
         "first_air_date": "2020-07-13",
-        "genre_ids": [18, 10766],
+        "genre_ids": [
+          18,
+          10766
+        ],
         "id": 116479,
         "name": "Anupamaa",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "अनुपमा",
         "overview": "Anupama had to sacrifice a lot to become an ideal wife, daughter-in-law, and mother. After a bitter realisation, she sets out to live on her own terms.",
@@ -665,10 +818,16 @@
       {
         "backdrop_path": "/uir3NfY3J7WBhzVA8kkVGtz9sUB.jpg",
         "first_air_date": "2006-10-27",
-        "genre_ids": [10759, 99],
+        "genre_ids": [
+          10759,
+          99
+        ],
         "id": 4709,
         "name": "Man vs. Wild",
-        "origin_country": ["US", "GB"],
+        "origin_country": [
+          "US",
+          "GB"
+        ],
         "original_language": "en",
         "original_name": "Man vs. Wild",
         "overview": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
@@ -680,10 +839,16 @@
       {
         "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
         "first_air_date": "2022-08-21",
-        "genre_ids": [10765, 18, 10759],
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
         "id": 94997,
         "name": "House of the Dragon",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "House of the Dragon",
         "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
@@ -695,10 +860,15 @@
       {
         "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
         "first_air_date": "1999-01-31",
-        "genre_ids": [16, 35],
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 1434,
         "name": "Family Guy",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Family Guy",
         "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
@@ -710,10 +880,15 @@
       {
         "backdrop_path": "/7kURMhv9ueXNnvP9werOhJihXks.jpg",
         "first_air_date": "2019-10-27",
-        "genre_ids": [35, 18],
+        "genre_ids": [
+          35,
+          18
+        ],
         "id": 81879,
         "name": "Mrs. Fletcher",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Mrs. Fletcher",
         "overview": "A dual coming-of-age comedy exploring the impact of internet porn and social media, Mrs. Fletcher follows empty nest divorcée Eve Fletcher — as she reinvents her life to find the happiness and sexual fulfillment that’s eluded her, and her college freshman son Brendan.",
@@ -725,10 +900,17 @@
       {
         "backdrop_path": "/muu7SpWpMpObzccAgaRcuB4RHbk.jpg",
         "first_air_date": "2005-04-22",
-        "genre_ids": [10759, 16, 35, 10765],
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
         "id": 65733,
         "name": "Doraemon",
-        "origin_country": ["JP"],
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
         "original_name": "ドラえもん",
         "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
@@ -740,10 +922,15 @@
       {
         "backdrop_path": "/lmNjexxw3iubnX8qIcM33Xbw3ZX.jpg",
         "first_air_date": "2010-05-03",
-        "genre_ids": [18, 10751],
+        "genre_ids": [
+          18,
+          10751
+        ],
         "id": 32707,
         "name": "Saath Nibhana Saathiya",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "साथ निभाना साथिया",
         "overview": "Saath Nibhaana Saathiya is an Indian television drama series that launched on 3 May 2010. The series is broadcast worldwide on STAR Plus, with older episodes transmitted on STAR Utsav. The series is based on the lives of two female cousins after their respective marriages, focusing on the ongoing drama within the household of the Modi family.\n\nThe serial, although set in Rajkot, is filmed in Mumbai. Episodes of Saath Nibhaana Saathiya have been recorded on location in Kutch and in Switzerland. The show completed its 800th episode on 26 April 2013.\n\nThe series has also been dubbed into Telugu for broadcast on MAA TV, where it airs under the title Kodala Kodala Koduku Pellamaa.",
@@ -755,10 +942,15 @@
       {
         "backdrop_path": "/bwpkqqexLHIEywbZ9vz9hLZ5ITb.jpg",
         "first_air_date": "2022-06-29",
-        "genre_ids": [16, 10751],
+        "genre_ids": [
+          16,
+          10751
+        ],
         "id": 114466,
         "name": "Baymax!",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Baymax!",
         "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
@@ -770,10 +962,14 @@
       {
         "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
         "first_air_date": "2009-09-23",
-        "genre_ids": [35],
+        "genre_ids": [
+          35
+        ],
         "id": 1421,
         "name": "Modern Family",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Modern Family",
         "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
@@ -785,10 +981,14 @@
       {
         "backdrop_path": "/9fbcFKPAWxlaeNIDkIPCpVNKxys.jpg",
         "first_air_date": "2013-12-02",
-        "genre_ids": [18],
+        "genre_ids": [
+          18
+        ],
         "id": 82115,
         "name": "Yeh Hai Mohabbatein",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "Yeh Hai Mohabbatein",
         "overview": "Ye Hai Mohabbatein, sometimes spelled Yeh Hai Mohabbatein (English: This is Love), is an Indian soap opera that airs on Star Plus. It premiered on 3 December 2013[1] and airs Monday through Saturday nights. It is produced by Ekta Kapoor of Balaji Telefilms.[2][3] It is based on Manju Kapur's novel Custody.",
@@ -800,10 +1000,15 @@
       {
         "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
         "first_air_date": "2016-10-02",
-        "genre_ids": [10765, 37],
+        "genre_ids": [
+          10765,
+          37
+        ],
         "id": 63247,
         "name": "Westworld",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Westworld",
         "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
@@ -818,7 +1023,9 @@
         "genre_ids": [],
         "id": 204928,
         "name": "Anurager Chhowa",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Anurager Chhowa",
         "overview": "A story of love conquering prejudices, Surjyo and Deepa discover each other’s real beauty and form an eternal bond despite forces trying to keep them apart.",
@@ -830,10 +1037,14 @@
       {
         "backdrop_path": "/9KiHuqI0btu4KwGowyKbQ3aKRN5.jpg",
         "first_air_date": "2009-06-28",
-        "genre_ids": [35],
+        "genre_ids": [
+          35
+        ],
         "id": 18614,
         "name": "Hung",
-        "origin_country": ["US"],
+        "origin_country": [
+          "US"
+        ],
         "original_language": "en",
         "original_name": "Hung",
         "overview": "Desperate times call for desperate measures and Ray Drecker's situation couldn't be much tougher. The former high school sports legend turned middle-aged high school basketball coach is divorced and struggling to provide for his kids when his already run-down house catches fire. Looking to take on a second job, Ray decides to exploit his best asset in a last-ditch attempt to change his fortunes.",
@@ -845,10 +1056,15 @@
       {
         "backdrop_path": "/jkWfubMwzo8R226HUzeZqe3Zr7p.jpg",
         "first_air_date": "2018-07-30",
-        "genre_ids": [9648, 10765],
+        "genre_ids": [
+          9648,
+          10765
+        ],
         "id": 81927,
         "name": "Nazar",
-        "origin_country": ["IN"],
+        "origin_country": [
+          "IN"
+        ],
         "original_language": "hi",
         "original_name": "नज़र",
         "overview": "The Rathods may look like a normal family, but they have been reeling under the evil sight, 'nazar' of a supernatural entity, a Daayan. And once fallen, it never leaves…",
@@ -860,10 +1076,16 @@
       {
         "backdrop_path": "/nZduEFaAj7ll0FJGFkmRcJwYZPK.jpg",
         "first_air_date": "1992-04-13",
-        "genre_ids": [16, 35, 10762],
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
         "id": 30623,
         "name": "Shin Chan",
-        "origin_country": ["JP"],
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
         "original_name": "クレヨンしんちゃん",
         "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
@@ -873,8 +1095,6 @@
         "vote_count": 68
       }
     ],
-
-
     "genres": [
       {
         "id": 28,
@@ -952,12 +1172,1010 @@
         "id": 37,
         "name": "Western"
       }
+    ],
+    "Generic": [
+      {
+        "backdrop_path": "/bwpkqqexLHIEywbZ9vz9hLZ5ITb.jpg",
+        "first_air_date": "2022-06-29",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 114466,
+        "name": "Baymax!",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Baymax!",
+        "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
+        "popularity": 58.823,
+        "poster_path": "/7r07OcVMXB57D4mkCjeccGci9zC.jpg",
+        "vote_average": 8.1,
+        "vote_count": 128
+      },
+      {
+        "backdrop_path": "/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg",
+        "first_air_date": "2009-09-23",
+        "genre_ids": [
+          35
+        ],
+        "id": 1421,
+        "name": "Modern Family",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Modern Family",
+        "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+        "popularity": 260.409,
+        "poster_path": "/fu5vEUHgxkAPmX26ISQXqHmlPMq.jpg",
+        "vote_average": 7.8,
+        "vote_count": 1941
+      },
+      {
+        "backdrop_path": "/9fbcFKPAWxlaeNIDkIPCpVNKxys.jpg",
+        "first_air_date": "2013-12-02",
+        "genre_ids": [
+          18
+        ],
+        "id": 82115,
+        "name": "Yeh Hai Mohabbatein",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "Yeh Hai Mohabbatein",
+        "overview": "Ye Hai Mohabbatein, sometimes spelled Yeh Hai Mohabbatein (English: This is Love), is an Indian soap opera that airs on Star Plus. It premiered on 3 December 2013[1] and airs Monday through Saturday nights. It is produced by Ekta Kapoor of Balaji Telefilms.[2][3] It is based on Manju Kapur's novel Custody.",
+        "popularity": 1.428,
+        "poster_path": "/itb1mSnM9GkSssPOYLa1FukGwOf.jpg",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+        "first_air_date": "2016-10-02",
+        "genre_ids": [
+          10765,
+          37
+        ],
+        "id": 63247,
+        "name": "Westworld",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Westworld",
+        "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+        "popularity": 152.523,
+        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+        "vote_average": 8.1,
+        "vote_count": 4446
+      },
+      {
+        "backdrop_path": null,
+        "first_air_date": "",
+        "genre_ids": [],
+        "id": 204928,
+        "name": "Anurager Chhowa",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Anurager Chhowa",
+        "overview": "A story of love conquering prejudices, Surjyo and Deepa discover each other’s real beauty and form an eternal bond despite forces trying to keep them apart.",
+        "popularity": 0.6,
+        "poster_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "backdrop_path": "/9KiHuqI0btu4KwGowyKbQ3aKRN5.jpg",
+        "first_air_date": "2009-06-28",
+        "genre_ids": [
+          35
+        ],
+        "id": 18614,
+        "name": "Hung",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hung",
+        "overview": "Desperate times call for desperate measures and Ray Drecker's situation couldn't be much tougher. The former high school sports legend turned middle-aged high school basketball coach is divorced and struggling to provide for his kids when his already run-down house catches fire. Looking to take on a second job, Ray decides to exploit his best asset in a last-ditch attempt to change his fortunes.",
+        "popularity": 27.566,
+        "poster_path": "/AkN8jhrpGQAykyc05zck79SC5Sp.jpg",
+        "vote_average": 6.4,
+        "vote_count": 112
+      },
+      {
+        "backdrop_path": "/jkWfubMwzo8R226HUzeZqe3Zr7p.jpg",
+        "first_air_date": "2018-07-30",
+        "genre_ids": [
+          9648,
+          10765
+        ],
+        "id": 81927,
+        "name": "Nazar",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "नज़र",
+        "overview": "The Rathods may look like a normal family, but they have been reeling under the evil sight, 'nazar' of a supernatural entity, a Daayan. And once fallen, it never leaves…",
+        "popularity": 4.312,
+        "poster_path": null,
+        "vote_average": 9,
+        "vote_count": 2
+      },
+      {
+        "backdrop_path": "/nZduEFaAj7ll0FJGFkmRcJwYZPK.jpg",
+        "first_air_date": "1992-04-13",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "id": 30623,
+        "name": "Shin Chan",
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "クレヨンしんちゃん",
+        "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+        "popularity": 35.753,
+        "poster_path": "/y2bQiZJRs4ZRB49ZaQTRfnvFy91.jpg",
+        "vote_average": 7.5,
+        "vote_count": 68
+      },
+      {
+        "backdrop_path": "/z6ES1hCbLozoquj5wilidrtKBPp.jpg",
+        "first_air_date": "2007-02-15",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 31910,
+        "name": "Naruto Shippūden",
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ナルト 疾風伝",
+        "overview": "Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.",
+        "popularity": 291.039,
+        "poster_path": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+        "vote_average": 8.6,
+        "vote_count": 7121
+      },
+      {
+        "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+        "first_air_date": "2011-04-17",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 1399,
+        "name": "Game of Thrones",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Game of Thrones",
+        "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "popularity": 1172.636,
+        "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+        "vote_average": 8.4,
+        "vote_count": 19392
+      },
+      {
+        "backdrop_path": "/2s9UYYzCraDdj1gczHCMFQ7Umgx.jpg",
+        "first_air_date": "",
+        "genre_ids": [
+          10759
+        ],
+        "id": 111110,
+        "name": "One Piece",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "One Piece",
+        "overview": "A live-action pirate adventure story based on the bestselling manga by Eiichiro Oda.",
+        "popularity": 19.92,
+        "poster_path": null,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "backdrop_path": "/jr47QrP0jSHzszN7U1FBQRLMQ7S.jpg",
+        "first_air_date": "2013-09-16",
+        "genre_ids": [
+          18
+        ],
+        "id": 60550,
+        "name": "Mahabharat",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "Mahabharat",
+        "overview": "Mahabharat is a 2013 drama TV series on Star Plus based on Indian legendary epic of the same name. It has been produced by Swastik Pictures and features actors such as Saurabh Raj Jain as Lord Krishna, Shaheer Sheikh as Arjuna, Pooja Sharma as Draupadi, Aham Sharma as Karna and Arav Chowdhary as Bhishma Pitamah. The producers had creative associations with writer Salim Khan, author Devdutt Pattanaik, designer Bhanu Athaiya, music directors Ajay-Atul and Ismail Darbar, action director Ram Shetty and set designer Omang Kumar. The casting of the show is done by Sahil Ansari, Mahesh Chandra Bhatt, Arun Mitra. It started broadcasting on 16 September 2013.",
+        "popularity": 10.561,
+        "poster_path": "/eV8G3F2MWmtjprghsxZncxCdS90.jpg",
+        "vote_average": 8.8,
+        "vote_count": 10
+      },
+      {
+        "backdrop_path": "/9W2jZIwKQHyCkji8uxrcYoJbk67.jpg",
+        "first_air_date": "2019-04-05",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 88177,
+        "name": "Criminal Justice",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "Criminal Justice",
+        "overview": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+        "popularity": 16.303,
+        "poster_path": "/7eF9QnauioOeQUoy2NNkizFvHUO.jpg",
+        "vote_average": 8,
+        "vote_count": 23
+      },
+      {
+        "backdrop_path": "/2748H9LoK2oQd9L7ofze8VjCGhS.jpg",
+        "first_air_date": "2020-07-13",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 116479,
+        "name": "Anupamaa",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "अनुपमा",
+        "overview": "Anupama had to sacrifice a lot to become an ideal wife, daughter-in-law, and mother. After a bitter realisation, she sets out to live on her own terms.",
+        "popularity": 16.725,
+        "poster_path": "/9R4Qtm01pNh0CzdoIyvHKefe5RL.jpg",
+        "vote_average": 4.5,
+        "vote_count": 24
+      },
+      {
+        "backdrop_path": "/uir3NfY3J7WBhzVA8kkVGtz9sUB.jpg",
+        "first_air_date": "2006-10-27",
+        "genre_ids": [
+          10759,
+          99
+        ],
+        "id": 4709,
+        "name": "Man vs. Wild",
+        "origin_country": [
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Man vs. Wild",
+        "overview": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
+        "popularity": 27.772,
+        "poster_path": "/9M4xXcz9m1aUlRsASv7vsx776do.jpg",
+        "vote_average": 6.9,
+        "vote_count": 127
+      },
+      {
+        "backdrop_path": "/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "first_air_date": "2022-08-21",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 94997,
+        "name": "House of the Dragon",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "House of the Dragon",
+        "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+        "popularity": 7437.735,
+        "poster_path": "/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+        "vote_average": 8.6,
+        "vote_count": 1702
+      },
+      {
+        "backdrop_path": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+        "first_air_date": "1999-01-31",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 1434,
+        "name": "Family Guy",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Family Guy",
+        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "popularity": 430.697,
+        "poster_path": "/aLB7psB9N81n5GecHNOudXWW3AI.jpg",
+        "vote_average": 7.2,
+        "vote_count": 3483
+      },
+      {
+        "backdrop_path": "/7kURMhv9ueXNnvP9werOhJihXks.jpg",
+        "first_air_date": "2019-10-27",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 81879,
+        "name": "Mrs. Fletcher",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mrs. Fletcher",
+        "overview": "A dual coming-of-age comedy exploring the impact of internet porn and social media, Mrs. Fletcher follows empty nest divorcée Eve Fletcher — as she reinvents her life to find the happiness and sexual fulfillment that’s eluded her, and her college freshman son Brendan.",
+        "popularity": 15.271,
+        "poster_path": "/8FVRHydZgQ09S4ANvhy1dQyI7A4.jpg",
+        "vote_average": 7.4,
+        "vote_count": 240
+      },
+      {
+        "backdrop_path": "/muu7SpWpMpObzccAgaRcuB4RHbk.jpg",
+        "first_air_date": "2005-04-22",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "id": 65733,
+        "name": "Doraemon",
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ドラえもん",
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "popularity": 278.193,
+        "poster_path": "/aL9BRFZuLzbuvhtrlTYs1ix1apu.jpg",
+        "vote_average": 7.8,
+        "vote_count": 45
+      },
+      {
+        "backdrop_path": "/lmNjexxw3iubnX8qIcM33Xbw3ZX.jpg",
+        "first_air_date": "2010-05-03",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 32707,
+        "name": "Saath Nibhana Saathiya",
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "साथ निभाना साथिया",
+        "overview": "Saath Nibhaana Saathiya is an Indian television drama series that launched on 3 May 2010. The series is broadcast worldwide on STAR Plus, with older episodes transmitted on STAR Utsav. The series is based on the lives of two female cousins after their respective marriages, focusing on the ongoing drama within the household of the Modi family.\n\nThe serial, although set in Rajkot, is filmed in Mumbai. Episodes of Saath Nibhaana Saathiya have been recorded on location in Kutch and in Switzerland. The show completed its 800th episode on 26 April 2013.\n\nThe series has also been dubbed into Telugu for broadcast on MAA TV, where it airs under the title Kodala Kodala Koduku Pellamaa.",
+        "popularity": 2.871,
+        "poster_path": "/nRrE3cZpS8GAYgFnHTmb3BKp9rC.jpg",
+        "vote_average": 2.3,
+        "vote_count": 3
+      }
+    ],
+
+
+
+    "Romence Movies": [
+      {
+       "adult": false,
+       "backdrop_path": "/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg",
+       "genre_ids": [
+         53,
+         28
+       ],
+       "id": 999205,
+       "original_language": "en",
+       "original_title": "Stowaway",
+       "overview": "A tenacious party girl fights to survive after three thieves commandeer her luxury yacht. Unable to escape and trapped on the yacht at high seas, the prey becomes the hunter as she turns the tables on the intruders and takes matters into her own hands.",
+       "popularity": 1410.314,
+       "poster_path": "/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg",
+       "release_date": "2022-08-31",
+       "title": "Stowaway",
+       "video": false,
+       "vote_average": 5,
+       "vote_count": 12
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/z8KsgBFtduX5bS1yVkjoGo4L7KJ.jpg",
+       "genre_ids": [
+         18,
+         35,
+         10752
+       ],
+       "id": 597922,
+       "original_language": "en",
+       "original_title": "The Greatest Beer Run Ever",
+       "overview": "Chickie wants to support his friends fighting in Vietnam, so he does something wild—personally bring them American beer. What starts as a well-meaning journey quickly changes Chickie’s life and perspective. Based on a true story.",
+       "popularity": 1668.445,
+       "poster_path": "/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg",
+       "release_date": "2022-09-30",
+       "title": "The Greatest Beer Run Ever",
+       "video": false,
+       "vote_average": 7.8,
+       "vote_count": 179
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+       "genre_ids": [
+         28,
+         18
+       ],
+       "id": 361743,
+       "original_language": "en",
+       "original_title": "Top Gun: Maverick",
+       "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+       "popularity": 1554.919,
+       "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+       "release_date": "2022-05-24",
+       "title": "Top Gun: Maverick",
+       "video": false,
+       "vote_average": 8.4,
+       "vote_count": 4216
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/d3l7kgFJyLTTQSrR4ysCk5yeVyW.jpg",
+       "genre_ids": [
+         28,
+         18
+       ],
+       "id": 579974,
+       "original_language": "te",
+       "original_title": "రౌద్రం రణం రుధిరం",
+       "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+       "popularity": 1289.899,
+       "poster_path": "/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+       "release_date": "2022-03-24",
+       "title": "RRR",
+       "video": false,
+       "vote_average": 7.8,
+       "vote_count": 420
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/5luJmy21N3bYCkjzRHsoZfvLtPP.jpg",
+       "genre_ids": [
+         53,
+         18,
+         80
+       ],
+       "id": 773975,
+       "original_language": "en",
+       "original_title": "End of the Road",
+       "overview": "Recently widowed mom Brenda fights to protect her family during a harrowing road trip when a murder and a missing bag of cash plunge them into danger.",
+       "popularity": 842.989,
+       "poster_path": "/tLFIMuPWJHlTJ6TN8HCOiSD6SdA.jpg",
+       "release_date": "2022-09-09",
+       "title": "End of the Road",
+       "video": false,
+       "vote_average": 6.5,
+       "vote_count": 172
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/5EzpTMkpg3DecNoP2DAOBlh0Fi6.jpg",
+       "genre_ids": [
+         28,
+         80
+       ],
+       "id": 993145,
+       "original_language": "en",
+       "original_title": "Bullet Proof",
+       "overview": "The Thief  pulls off the robbery of a lifetime when he robs the psychotic drug lord, Temple. The plan goes off without a hitch until the Thief discovers a stowaway in his getaway car - Temple's pregnant wife, Mia.",
+       "popularity": 2231.868,
+       "poster_path": "/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg",
+       "release_date": "2022-08-19",
+       "title": "Bullet Proof",
+       "video": false,
+       "vote_average": 5.1,
+       "vote_count": 15
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/olPXihyFeeNvnaD6IOBltgIV1FU.jpg",
+       "genre_ids": [
+         27,
+         9648,
+         53
+       ],
+       "id": 882598,
+       "original_language": "en",
+       "original_title": "Smile",
+       "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+       "popularity": 1824.145,
+       "poster_path": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+       "release_date": "2022-09-23",
+       "title": "Smile",
+       "video": false,
+       "vote_average": 6.9,
+       "vote_count": 165
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg",
+       "genre_ids": [
+         53,
+         28,
+         878
+       ],
+       "id": 766507,
+       "original_language": "en",
+       "original_title": "Prey",
+       "overview": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+       "popularity": 1767.669,
+       "poster_path": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+       "release_date": "2022-08-02",
+       "title": "Prey",
+       "video": false,
+       "vote_average": 7.9,
+       "vote_count": 4254
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/qaTzVAW1u16WFNsepjCrilBuInc.jpg",
+       "genre_ids": [
+         16,
+         28,
+         10751,
+         35,
+         878
+       ],
+       "id": 539681,
+       "original_language": "en",
+       "original_title": "DC League of Super-Pets",
+       "overview": "When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.",
+       "popularity": 1603.243,
+       "poster_path": "/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+       "release_date": "2022-07-27",
+       "title": "DC League of Super-Pets",
+       "video": false,
+       "vote_average": 7.5,
+       "vote_count": 779
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",
+       "genre_ids": [
+         12,
+         28,
+         878
+       ],
+       "id": 507086,
+       "original_language": "en",
+       "original_title": "Jurassic World Dominion",
+       "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history’s most fearsome creatures.",
+       "popularity": 1586.906,
+       "poster_path": "/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
+       "release_date": "2022-06-01",
+       "title": "Jurassic World Dominion",
+       "video": false,
+       "vote_average": 7,
+       "vote_count": 3587
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+       "genre_ids": [
+         28,
+         18,
+         878
+       ],
+       "id": 629176,
+       "original_language": "en",
+       "original_title": "Samaritan",
+       "overview": "Thirteen year old Sam Cleary  suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 20 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+       "popularity": 1524.987,
+       "poster_path": "/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+       "release_date": "2022-08-25",
+       "title": "Samaritan",
+       "video": false,
+       "vote_average": 6.9,
+       "vote_count": 1253
+     },
+     {
+       "adult": false,
+       "backdrop_path": "/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg",
+       "genre_ids": [
+         16,
+         10751
+       ],
+       "id": 438148,
+       "original_language": "en",
+       "original_title": "Minions: The Rise of Gru",
+       "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+       "popularity": 1450.172,
+       "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+       "release_date": "2022-06-29",
+       "title": "Minions: The Rise of Gru",
+       "video": false,
+       "vote_average": 7.6,
+       "vote_count": 2137
+     }
+  ],
+  "Popular Movies":[ 
+        {
+        "adult": false,
+        "backdrop_path": "/7AiIrnDMaOhPrw9elJ5NNjijTW4.jpg",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "id": 916605,
+        "original_language": "en",
+        "original_title": "The Infernal Machine",
+        "overview": "Reclusive and controversial author Bruce Cogburn is drawn out of hiding by an obsessive fan, forcing the novelist to confront a past that he thought he could escape, and to account for events set in motion by his bestseller decades earlier. Cogburn's search for who is behind the manipulation and mental torment he encounters leads to an emotional roller-coaster ride full of fear and danger, where things are not always as clear as they seem to be, and where past deeds can have dire consequences.",
+        "popularity": 3427.628,
+        "poster_path": "/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg",
+        "release_date": "2022-09-23",
+        "title": "The Infernal Machine",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ghsPsvM0sEztdNT4kUlTsBF2LEF.jpg",
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
+        "id": 852046,
+        "original_language": "fr",
+        "original_title": "Athena",
+        "overview": "Hours after the tragic death of their youngest brother in unexplained circumstances, three siblings have their lives thrown into chaos.",
+        "popularity": 3457.316,
+        "poster_path": "/fenNPxVF5ERy0CSyVruuEg959Hg.jpg",
+        "release_date": "2022-09-09",
+        "title": "Athena",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rgZ3hdzgMgYgzvBfwNEVW01bpK1.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 429473,
+        "original_language": "en",
+        "original_title": "Lou",
+        "overview": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+        "popularity": 3011.851,
+        "poster_path": "/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+        "release_date": "2022-09-23",
+        "title": "Lou",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 234
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2k9tBql5GYH328Krj66tDT9LtFZ.jpg",
+        "genre_ids": [
+          12,
+          18,
+          27
+        ],
+        "id": 760741,
+        "original_language": "en",
+        "original_title": "Beast",
+        "overview": "A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.",
+        "popularity": 2287.728,
+        "poster_path": "/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg",
+        "release_date": "2022-08-11",
+        "title": "Beast",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 606
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 744276,
+        "original_language": "en",
+        "original_title": "After Ever Happy",
+        "overview": "As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+        "popularity": 2277.597,
+        "poster_path": "/6b7swg6DLqXCO3XUsMnv6RwDMW2.jpg",
+        "release_date": "2022-08-24",
+        "title": "After Ever Happy",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 351
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
+        "id": 616037,
+        "original_language": "en",
+        "original_title": "Thor: Love and Thunder",
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+        "popularity": 1905.408,
+        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "release_date": "2022-07-06",
+        "title": "Thor: Love and Thunder",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4117
+      },
+         {
+        "adult": false,
+        "backdrop_path": "/pkLegAR3G5T63B2Xz2ijbD1BAm8.jpg",
+        "genre_ids": [
+          27,
+          53,
+          28,
+          12,
+          80,
+          9648,
+          18,
+          10752
+        ],
+        "id": 927341,
+        "original_language": "en",
+        "original_title": "Hunting Ava Bravo",
+        "overview": "Billionaire sportsman Buddy King unwinds by hunting human captives on his remote mountain estate. But his latest victim, Ava Bravo is no easy target.",
+        "popularity": 572.442,
+        "poster_path": "/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg",
+        "release_date": "2022-04-01",
+        "title": "Hunting Ava Bravo",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 76
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sB4Qee1z6Mkood7WNdUJSJJF0s0.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 301502,
+        "original_language": "en",
+        "original_title": "Blonde",
+        "overview": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
+        "popularity": 670.499,
+        "poster_path": "/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg",
+        "release_date": "2022-09-16",
+        "title": "Blonde",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 488
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "id": 829560,
+        "original_language": "pl",
+        "original_title": "The Next 365 Days",
+        "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+        "popularity": 611.359,
+        "poster_path": "/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",
+        "release_date": "2022-08-19",
+        "title": "The Next 365 Days",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 496
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7id7oE3gqZuO0piWN20Ev7V90wl.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648,
+          14,
+          10751
+        ],
+        "id": 877957,
+        "original_language": "ja",
+        "original_title": "雨を告げる漂流団地",
+        "overview": "Sixth-graders Kosuke and Natsume grew up in the same apartment building as childhood friends. During summer break, while playing in the apartment building that is set to be demolished, they find themselves caught in a strange phenomenon. All they can see around them is a vast sea. Will Kosuke and the others make it back to their world? A journey of farewells in summer has just begun.",
+        "popularity": 529.056,
+        "poster_path": "/iNf1wC8cK6e8zgNyuMUqWFT7Din.jpg",
+        "release_date": "2022-09-09",
+        "title": "Drifting Home",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 70
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/as4jvr6PF7Wfs0RyUl5bOJcB3yt.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 626735,
+        "original_language": "en",
+        "original_title": "Dog",
+        "overview": "An army ranger and his dog embark on a road trip along the Pacific Coast Highway to attend a friend's funeral.",
+        "popularity": 514.303,
+        "poster_path": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+        "release_date": "2022-02-17",
+        "title": "Dog",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 933
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99
+        ],
+        "id": 545669,
+        "original_language": "fr",
+        "original_title": "Fast and Furious - La Saga no Limit",
+        "overview": "",
+        "popularity": 13.581,
+        "poster_path": "/xxiwm75ADoHu0NCDObRG1AnHi02.jpg",
+        "release_date": "2017-04-12",
+        "title": "Fast and Furious - La Saga no Limit",
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3AKQ59TNeaifBoeLqBKp737dOHn.jpg",
+        "genre_ids": [
+          18,
+          27
+        ],
+        "id": 44510,
+        "original_language": "en",
+        "original_title": "The Grandmother",
+        "overview": "A young boy plants some strange seeds and they grow into a grandmother.",
+        "popularity": 6.678,
+        "poster_path": "/llhiY0rV6RWU1LOdy9Zljhf7cXm.jpg",
+        "release_date": "1970-07-01",
+        "title": "The Grandmother",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 121
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1U5zz2Jvt2L7hXHf1ZN1n74Zx8j.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 769636,
+        "original_language": "es",
+        "original_title": "Código Emperador",
+        "overview": "Juan, a secret service agent, approaches Wendy, a young Filipina who works as a maid for a suspicious couple.",
+        "popularity": 407.008,
+        "poster_path": "/8VjVLMiPm598Kg6XmKk5m1fz0p7.jpg",
+        "release_date": "2022-03-18",
+        "title": "Code Name: Emperor",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 101
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/noCgyITVoRxC3huC9zSOQq23sVr.jpg",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "id": 821420,
+        "original_language": "en",
+        "original_title": "Catch the Fair One",
+        "overview": "A Native American boxer embarks on the fight of her life when she goes in search of her missing sister.",
+        "popularity": 371.091,
+        "poster_path": "/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg",
+        "release_date": "2022-02-11",
+        "title": "Catch the Fair One",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gCojEROJs4JUVCCMA4fDFGc8OFc.jpg",
+        "genre_ids": [
+          18,
+          14
+        ],
+        "id": 1023994,
+        "original_language": "en",
+        "original_title": "Aníkúlápó",
+        "overview": "It tells the story of Saro, a man seeking for greener pasture, but unfolding events and his affair with the king's wife, he encounters his untimely death and with Akala, a mystical bird believed to give and take life.",
+        "popularity": 339.712,
+        "poster_path": "/xb30hkUpBm23stnVgDJGYGsC0R0.jpg",
+        "release_date": "2022-09-30",
+        "title": "Anikalupo",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h0buW4Y9yqDcl28FzI7kJunfaiM.jpg",
+        "genre_ids": [
+          14,
+          18,
+          35,
+          10402
+        ],
+        "id": 960170,
+        "original_language": "es",
+        "original_title": "Rainbow",
+        "overview": "A modern tale of a teenager’s coming-of-age journey loosely inspired by the classic novel “The Wonderful Wizard of Oz.”",
+        "popularity": 349.513,
+        "poster_path": "/7RVajiBhqJVwKIhUqSnRWBWhZA5.jpg",
+        "release_date": "2022-09-18",
+        "title": "Rainbow",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7IW5xt241RUAufYiFBoAPx5n52V.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 936074,
+        "original_language": "fr",
+        "original_title": "Ténor",
+        "overview": "While working part-time as a food deliveryman, Antoine, an aspiring young rapper from the suburbs of Paris, meets Mrs. Loiseau, an eminent teacher at the Paris Opéra. Stunned by the young man's raw talent, she introduces him to the world of opera. As Antoine becomes one of Mrs. Loiseau's students, he hides his new dream from his friends and family, fearing that they won’t understand – this double life burdens him... Somewhere in between the gilded and uptight Parisian upper-class, and the harsh yet free-spirited and familiar suburbs he grew up in, Antoine will have to find his own voice.",
+        "popularity": 344.353,
+        "poster_path": "/t8ShCiZxrbiy7kuO06OilLI3PeL.jpg",
+        "release_date": "2022-05-04",
+        "title": "Tenor",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 75
+      }
     ]
-   
 
-    
-  }
-  
+
 
   }
-  
+}
