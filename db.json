@@ -979,26 +979,7 @@
         "vote_average": 8,
         "vote_count": 1
       },
-      {
-        "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
-        "first_air_date": "2016-10-02",
-        "genre_ids": [
-          10765,
-          37
-        ],
-        "id": 63247,
-        "name": "Westworld",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_name": "Westworld",
-        "overview": "A dark odyssey about the dawn  indulged.",
-        "popularity": 152.523,
-        "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
-        "vote_average": 8.1,
-        "vote_count": 4446
-      },
+      
      
       {
         "backdrop_path": "/9KiHuqI0btu4KwGowyKbQ3aKRN5.jpg",
@@ -1018,29 +999,9 @@
         "poster_path": "/AkN8jhrpGQAykyc05zck79SC5Sp.jpg",
         "vote_average": 6.4,
         "vote_count": 112
-      },
-      
-      {
-        "backdrop_path": "/nZduEFaAj7ll0FJGFkmRcJwYZPK.jpg",
-        "first_air_date": "1992-04-13",
-        "genre_ids": [
-          16,
-          35,
-          10762
-        ],
-        "id": 30623,
-        "name": "Shin Chan",
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "クレヨンしんちゃん",
-        "overview": "Shin-chan,   gets excited about  things his way.",
-        "popularity": 35.753,
-        "poster_path": "/y2bQiZJRs4ZRB49ZaQTRfnvFy91.jpg",
-        "vote_average": 7.5,
-        "vote_count": 68
       }
+      
+      
     ],
     "genres": [
       {
